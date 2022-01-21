@@ -1,4 +1,4 @@
-# Java_Amdocs_Dio
+# Java
 Curso Introdutório da Linguagem Java
 
 ## Lógica de Programação Algoritmos usando Java (iniciante)
